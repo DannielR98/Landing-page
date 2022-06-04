@@ -15,22 +15,8 @@ body {
     padding: 20px 0px 20px 100px;
     align-items: center;
     justify-content: space-between;
-  
-  
-  
- /* height: 72px;
-    background-color: rgb(27, 83, 83);
-    color: white;
-    display: flex;
-    align-items: center;
-
-    font-size: 32px;
-    font-weight: 900;
-    
-
-    padding-bottom: 48px;
-    padding-left: 48px;*/
   }
+
   .left, .right {
     display: flex;
     align-items: center;
@@ -119,4 +105,27 @@ body {
   }
 
 
-  
+  /* Section 2*/
+
+  .section2 {
+    display: flex;
+    padding: 32px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+  }
+.card {
+  padding: 16px;
+  margin: 16px;
+  width: 200px;
+}
+
+  .card img{
+    width: 200px;
+    height: 200px;
+  }
+
+  h1 {
+    text-align: center;
+  }
